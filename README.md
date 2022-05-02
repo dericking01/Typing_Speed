@@ -1,2 +1,2 @@
 # Typing_Speed
-Test your typing speed
+Test your accuracy and typing speed here. This helps you to be fast and productive.
